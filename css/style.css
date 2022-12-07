@@ -1,0 +1,85 @@
+
+article {
+
+padding: 10px;
+padding-top: 1.5%;
+background-color: rgb(36, 50, 61);
+height: 17em;
+width: 20em;
+text-align: center;
+padding-bottom: 3%;
+}
+
+p {
+color: rgb(225, 222, 222);
+text-align: center;
+font-size: 110%;
+}
+
+#button {
+ color:white;
+  background-color: rgb(29, 174, 136);
+  padding: 4%;
+  font-size: 90%;
+  width: 87%;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+  letter-spacing: 0.1em;
+}
+
+#login {
+  color: rgb(104, 119, 124);
+  background-color: rgb(67, 82, 87);
+  width: 41%;
+  padding: 3%;
+  font-size: 60%;
+  cursor: pointer;
+  border: none;
+}
+
+#LastName {
+width: 38%;
+color: rgb(117, 119, 119);
+background-color: rgb(36, 50, 61);
+padding: 1.4%;
+border: solid;
+border-color:rgb(117, 119, 119);
+}
+
+#FirstName {
+  width: 38%;
+  color: rgb(117, 119, 119);
+  background-color: rgb(36, 50, 61);
+  padding: 1.4%;
+  border-color: rgb(117, 119, 119);
+  border: solid;
+}
+
+#SetAPassword {
+width: 81%;
+color: rgb(117, 119, 119);
+background-color: rgb(36, 50, 61);
+padding: 1.4%;
+border: solid;
+border-color: rgb(117, 119, 119);
+}
+
+#EmailAddress {
+width: 81%;
+color: rgb(117, 119, 119);
+background-color: rgb(36, 50, 61);
+padding: 1.4%;
+border: solid;
+border-color: rgb(117, 119, 119);
+}
+
+#signup {
+  background-color: rgb(29, 174, 136);
+  color: white;
+  width: 41%;
+  padding: 3%;
+  font-size: 60%;
+  cursor: pointer;
+  border: none;
+}
